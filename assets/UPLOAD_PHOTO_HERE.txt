@@ -1,0 +1,7 @@
+Add Tahra's portrait photo in this folder.
+
+Required file name:
+tahra-photo.jpg
+
+Use a clear, professional head-and-shoulders photo if possible.
+The website will show it automatically after upload.
