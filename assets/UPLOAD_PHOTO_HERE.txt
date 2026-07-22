@@ -1,6 +1,0 @@
-Place Tahra's professional portrait in this folder.
-
-Required file name:
-tahra-photo.jpg
-
-The website will detect and display it automatically.
