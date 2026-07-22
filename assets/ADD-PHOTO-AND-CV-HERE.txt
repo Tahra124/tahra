@@ -1,0 +1,11 @@
+Add these two files to this assets folder:
+
+1. tahra-profile.jpg
+   Tahra's personal photo. A clear vertical portrait of at least 1200 x 1500 px is recommended.
+
+2. Tahra-Abdulsalam-CV.pdf
+   Tahra's final CV in PDF format.
+
+Keep the filenames exactly as written. The website automatically replaces the
+TA placeholder when the photo is present and enables the CV download when the
+PDF is present.
